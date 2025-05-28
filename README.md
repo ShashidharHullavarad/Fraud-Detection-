@@ -8,7 +8,7 @@ This project uses various machine learning models to detect fraudulent transacti
 
 The dataset used (`AIML Dataset.csv`) is too large to be stored in this repository due to GitHub’s 100MB file limit.
 
-👉 [Click here to download the dataset from Google Drive]([https://drive.google.com/your-shared-link-here](https://drive.google.com/file/d/1BU6VH4KUt6eKFB246calzgy5KT-vgSOA/view?usp=drive_link))
+👉 [Click here to download the dataset from Google Drive]((https://drive.google.com/file/d/1BU6VH4KUt6eKFB246calzgy5KT-vgSOA/view?usp=drive_link))
 
 Once downloaded, place the file in the root directory of this project before running any scripts.
 
