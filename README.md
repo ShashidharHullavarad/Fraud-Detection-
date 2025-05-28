@@ -47,3 +47,6 @@ It's recommended to use a virtual environment. Then run:
    ```
 ---
 
+**Shashidhar Hullavarad**  
+📧 [hullavarad@gmail.com](mailto:hullavarad@gmail.com)  
+🔗 [GitHub Profile](https://github.com/ShashidharHullavarad)
